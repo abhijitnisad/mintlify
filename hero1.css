@@ -1,0 +1,20 @@
+.inner-hero-section {
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #475070;
+  border-radius: 100px;
+  margin-left: 500px;
+  gap: 8px;
+  font-weight: 500;
+  width: 26%;
+}
+.hero-title {
+  background-color: #4a8a62;
+  padding: 7px 14px;
+  border-radius: 50px;
+}
+.hero-text {
+  padding: 0;
+}
